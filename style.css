@@ -8,11 +8,11 @@ body
 /* Main Container */
 .container
 {
-    margin-top: 10%;
+    margin-top: 5%;
     background-color: lightgray;
     border-radius: 10px;
-    height: 31rem;
-    width: 35rem;
+    height: 31.5rem;
+    width: 34rem;
     padding: 10px;
 }
 
@@ -43,6 +43,7 @@ body
     height: inherit;
     width: inherit;
     border: none;
+    bottom: 0px;
     border-radius: 5px;
     font-size: 2rem;
 } 
