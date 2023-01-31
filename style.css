@@ -1,0 +1,87 @@
+body
+{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* Main Container */
+.container
+{
+    margin-top: 10%;
+    background-color: lightgray;
+    border-radius: 10px;
+    height: 31rem;
+    width: 35rem;
+    padding: 10px;
+}
+
+/* heading  */
+
+.heading
+{    
+    margin-top: 1.2rem;
+    background-color: black;
+    color: white;
+}
+.heading h1
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding: 5px;
+}
+
+/* input box container */
+.inputbox-container
+{
+    height: 7rem;
+    width: 32.5rem;
+    margin-top: 1.5rem;
+}
+.inputbox-container input
+{
+    height: inherit;
+    width: inherit;
+    border: none;
+    border-radius: 5px;
+    font-size: 2rem;
+} 
+
+/* Button container style */
+.btn-container
+{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    width: 32.5rem;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* button style */
+.btn
+{
+    border-radius: 0px !important;
+    background-color: white;
+    font-size: 2rem;
+    padding: 0.5px;
+    margin: 1px;
+    width: 8rem;
+    height:3rem;
+}
+#zero
+{
+    width: 16.12rem;
+}
+.btn:hover
+{
+    background-color: rgb(210, 160, 68);
+}
+
+/* color class */
+.bg-brown
+{
+    background-color: rgb(217, 87, 87);
+    color: white;
+}
+
+/* footer Style */
